@@ -77,3 +77,10 @@ section.secondary {
 .card-body {
 
 }
+.img-responsive {
+  width: 100%;
+  display: block;
+}
+.embed {
+aspect-ratio: 16/1;
+}
